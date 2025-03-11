@@ -1,0 +1,32 @@
+/*caption{
+    color: red;
+    text-align: center;
+    align-items: center;
+}*/
+
+h3{
+    color: brown;
+    align-content: center;
+    text-align: center;
+}
+
+.marron{
+    border-color: rgb(210, 17, 17);
+}
+
+th{
+    text-align: center;
+}
+
+tr{
+    text-align: center;
+}
+
+table{
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin: 20px;
+    padding: 60px;
+
+}
